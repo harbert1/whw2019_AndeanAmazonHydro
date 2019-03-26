@@ -1,0 +1,17 @@
+Andean Amazon Hydro
+
+Extent:
+Ecuador: whole country
+Brazil: Amazon basin
+
+Boca chico fish
+lower floodplains flooded for ~1/2 the year
+boca chico fish spawn on lower tribs, young and older fish then feed in floodplains, then when flows/ flooding decrease they migrate upstream up tribs
+
+Data format:
+Excel files: time series of discharge
+Date            Station Station Station
+mm/dd/yyyy      cms?       cms?   cms?
+
+Locations of stations
+Code, Name, Long, Lat (decimal degrees), some have altitude, basin, lots of other stuff
